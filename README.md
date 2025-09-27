@@ -3,7 +3,8 @@
 This repository documents my work on **AWS Academy Lab 3: Intro to EC2** during my Cloud Computing course.  
 The lab introduced the fundamentals of **Amazon EC2 (Elastic Compute Cloud)**, including launching, configuring, and monitoring virtual machines instances in AWS.
 
-You can view the lab tasks and test score in the file above
+You can view the lab tasks and score in the ec2Lab.png file above
+
 ---
 
 ## QA Connection
